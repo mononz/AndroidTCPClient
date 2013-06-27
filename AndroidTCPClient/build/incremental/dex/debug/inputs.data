@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372322514000 2002 44ac3f3323624ca73faab5af229889e5937f70ed /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/ClientListAdapter.class
+1372322190000 363 e2ee5ec62ea04650f5a904eb6f7c205ec41cf9ff /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/BuildConfig.class
+1372322190000 488 2c898bcff86f7c2e05cece9c8462479afc1e52ab /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$dimen.class
+1372322514000 2541 6d5e5f3f96fb9e8c414e40f3d7168e310a86e5f6 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/ClientActivity$ConnectTask.class
+1372323539000 3131 b76238ec5b881dddf098e9d1d021d34036cc0793 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/TcpClient.class
+1372322514000 3978 c7490f888b010a6bfb59887926a0955ca6d80993 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/ClientActivity.class
+1372322514000 454 a8d5c7bfeb167ba34838848ffccb1e4b4fc5f65d /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$layout.class
+1372322514000 289 0af6888a54b2f2c6f2baf0291de4548cf68fe633 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/TcpClient$OnMessageReceived.class
+1372322514000 767 814410d993df0f8e19f417ed4467ead4e84d7406 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R.class
+1372322190000 434 74dccba15e54e09351ef65de0e2aee32babc2ef5 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$drawable.class
+1372322514000 1200 18de8e26a26148f39a3459e9c9fe359744ce3eff /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/ClientActivity$ConnectTask$1.class
+1372322190000 367 4b6536e5d54e4e902050fc5ac4ed5643bf96b185 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$attr.class
+1372322514000 458 0b9f7df82c646bc955fb4cede7b77777e68197b7 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$style.class
+1372323539000 463 e7aacb2f4a39e79065760336e14f8d75ef5dcf4e /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/Constants.class
+1372322514000 1969 ee31ed0ba4dbfd82863e84de577fc0a8270ed869 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/ClientActivity$1.class
+1372322514000 499 4d1dccc15c3825b1c954dc2f0f8467bd176e9926 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$string.class
+1372322143000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/libs/android-support-v4.jar
+1372322514000 647 c7949e2ca8b949612faf2d3fe13fb9e6f2ca609b /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$id.class
+1372322514000 420 fe0ad7d85ed84e371dece86351909e470412f68f /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/classes/debug/net/mononz/androidtcpclient/R$menu.class

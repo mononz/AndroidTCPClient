@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372322190000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/values-v11/values.xml
+1372322190000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/values-v14/values.xml
+1372322190000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1372322190000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/values-sw720dp-land/values.xml
+1372322514000 623 e152046ec5002d825ef1a6fff4d19272f4505ffd /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/layout/list_item.xml
+1372322514000 267 075e1c096ed93dfa0555a2cc49b1350079715e45 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/menu/main_menu.xml
+1372322514000 1417 9234e55038b060c286b60197b99892c53dfc1d1b /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/layout/main.xml
+1372322190000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1372322190000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1372322190000 794 127fc4156623786ebf4c87d26f8d3a3d5cbf628f /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/values/values.xml
+1372322190000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/jared/AndroidStudioProjects/AndroidTCPClient/AndroidTCPClient/build/res/all/debug/drawable-mdpi/ic_launcher.png

@@ -1,0 +1,13 @@
+TCP Client for Android
+======================
+Open this project in Android Studio!
+Get it from here: http://developer.android.com/sdk/installing/studio.html
+
+Instructions:
+- Run the AndroidTCPServer on your computer
+- Edit the TcpClient.java file in Android Studio according to your computers IP address (public static final String SERVER_IP = "192.168.1.67";) - You can find your computers IP address by typing 'ipconfig' in a command line on windows (or 'ifconfig' in linux terminal)
+- Build the project and emulate
+- Enjoy!
+
+Full credit to Laura Suciu
+http://myandroidsolutions.blogspot.ro/2013/03/android-tcp-connection-enhanced.html
